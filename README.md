@@ -1,28 +1,27 @@
-# Hello-World
-First deployment of a Java program to GlassFish
+#1st-deployment
 
-[28/10/2017  2:23:09.18]
-Followed the instructions of the GitHub guide, and this is how far I
-have got. Good, I understand what this service is all about and I
-think I need to encrypt my code, before uploading to the platform. 
+#Short description
+On a very simple way of starting coding a website, I want to find out, how the collaboration(s) between Cloudflare and github correspond to my local development environment.
 
-Now let me get some examples first, before I start coding
-myself... ;-)
+#README
 
-[28/10/2017  2:38:55.47]
-So, now that I have uploaded the first file and received a new mask on
-the platform with an additional feature called "Compare & Pull
-request", I am thinking about if I really need to do this now...
+Some time ago I have purchased the domain https://SP109.me
 
-Well, I am here to study the process, before I create my own
-workflow...
+I have started with analyzing on what does the internet offer to somebody starting from scratch. Security is the number one requirement these days. Therefore routing comes straight next. Who is in need of what information to provide and/or to know? Based on my requirements I had to create the following rules:
 
-[28/10/2017  2:55:47.77]
-Merged the changed files to master, added a few comments while doing
-the workflow, I like this feature! Just missing a PRINT function for
-my personal use on the desktop, ...and there is permanently a message
-about uploading files in the text boxes, but I cannot see any UPLOAD
-button nor the sense in these steps of the workflow???
+(A.) Presentation by Geo-Location (USA, Suisse, Germany)
+(B.) Tor
+(C.) Sponsoring/Membership
 
-Anyway I will upload now this file here and finalize the process
-(2nd-step), that's it I am done.
+Results into the purpose and goal of my website. Next in line comes with the choice of selecting the right tools. Well, running on a low, very low budget limits the selections quite easy.
+
+1.) Operating System: Linux
+2.) Communication Provider: AldiSUISSE/Alditalk
+3.) https://No-IP.com
+4.) https://STORJ.io
+5.) https://ngrok.io
+6.) https://Cloudflare.com
+7.) https://www.github.com
+8.) DANGEROUSE ZONE
+
+So far, so good. Coding time...
